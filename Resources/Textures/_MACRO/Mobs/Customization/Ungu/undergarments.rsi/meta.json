@@ -36,7 +36,15 @@
             "directions": 4
         },
         {
+<<<<<<< HEAD:Resources/Textures/_MACRO/Mobs/Customization/Ungu/undergarments.rsi/meta.json
             "name": "Tee",
+=======
+            "name": "bee_tertiary",
+            "directions": 4
+        },
+        {
+            "name": "firefly_primary",
+>>>>>>> 7c0a2ec48c ([Resprite] Base moths and every single moth marking (and moth 9/11) (#2553)):Resources/Textures/_DV/Mobs/Customization/Chitinid/chitinid_wings.rsi/meta.json
             "directions": 4
         },
         {

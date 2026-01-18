@@ -11,7 +11,18 @@
       "name": "full"
     },
     {
+<<<<<<< HEAD
       "name": "head",
+=======
+      "name": "urist"
+    },
+    {
+      "name": "head_f",
+      "directions": 4
+    },
+    {
+      "name": "head_m",
+>>>>>>> 7c0a2ec48c ([Resprite] Base moths and every single moth marking (and moth 9/11) (#2553))
       "directions": 4
     },
     {
